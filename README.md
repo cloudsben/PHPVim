@@ -68,7 +68,7 @@ HTML代码补全 (Zen Coding)
 在你的终端执行这些命令来安装(前提是你已经安装了GVim或者MacVIM),下面会有用rake来编译command-t的操作(这需要你的机器安装ruby环境)
 
     cd ~
-    git clone git://github.com/cloudsben/Vim-PHP-IDE.git .vim
+    git clone git@github.com:cloudsben/PHPVim.git .vim
     ln -s ~/.vim/vimrc ~/.vimrc
     cd ~/.vim
     git submodule init
